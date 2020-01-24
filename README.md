@@ -1,10 +1,6 @@
 # HTML CSS capstone project
 This is the capstone solo project for HTML and CSS curriculum section. The project is base on an online shop for sneakers brand. To build this website the design by [Dmitry Oxygen in Dribble](https://www.behance.net/gallery/80392909/AXEL-ARIGATO-Website) was followed.
 
-To add some awesome features ready made JS libraries were used such as:
-- Glider.js by [Jędrzej Chałubek](https://glidejs.com/)
-- Page slider by [Kevin Østmark](https://github.com/kevinoes/page-slider-js)
-
 Screenshot [link](https://github.com/nurislam-ab/capstone_project_html_css/blob/development/screenshot.jpg)
 			
 
