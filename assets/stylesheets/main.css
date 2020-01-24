@@ -405,7 +405,7 @@ main {
 
 /* #endregion Menu container */
 
-/* #region Product categories page */
+/* #region Catalogue page */
 .categories-menu {
   display: none;
 }
@@ -428,7 +428,21 @@ main {
   padding: 25px;
 }
 
-/* #endregion Product categories page */
+/* #endregion Catalogue page */
+
+/* #region Product Category page */
+
+.page-title {
+  margin-top: 20px;
+  padding: 30px 0;
+}
+
+.page-title .h2 {
+  font-size: 40px;
+  letter-spacing: -0.03em;
+}
+
+/* #endregion Product Category page */
 
 /* #region Product details page */
 .product-container {
@@ -611,7 +625,7 @@ main {
 
   /* #endregion Stores */
 
-  /* #region Product categories page */
+  /* #region Catalogue page */
   .categories-menu {
     display: grid;
     grid-auto-flow: column;
@@ -645,7 +659,7 @@ main {
     grid-gap: 5px;
   }
 
-  /* #endregion Product categories page */
+  /* #endregion Catalogue page */
 
   /* #region Product details page */
   .product-container {
@@ -888,7 +902,7 @@ main {
 
   /* #endregion Journal */
 
-  /* #region Product categories page */
+  /* #region Catalogue page */
   .pc-list {
     display: grid;
     grid-auto-flow: row;
@@ -897,7 +911,7 @@ main {
     grid-gap: 5px;
   }
 
-  /* #endregion Product categories page */
+  /* #endregion Catalogue page */
 
   /* #region Product details page */
   .product-container {
