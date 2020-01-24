@@ -385,6 +385,10 @@ main {
   height: 3vh;
 }
 
+.dropdown-menu-icon svg .cls-1 {
+  fill: #231f20;
+}
+
 .menu-container .col-2,
 .menu-container .col-4 {
   display: none;
