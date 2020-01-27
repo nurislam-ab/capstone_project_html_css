@@ -16,7 +16,7 @@ It displays a responsive pages of the sneakers online shop including homepage, c
 
 ## Live Demo
 
-[Live Demo](https://raw.githack.com/nurislam-ab/capstone_project_html_css/development/index.html)
+[Live Demo](https://raw.githack.com/nurislam-ab/capstone_project_html_css/layout-development/index.html)
 
 ## Getting Started
 
