@@ -26,6 +26,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  opacity: 0.9;
+}
+
 ul li {
   list-style: none;
 }
