@@ -5,7 +5,9 @@ To add some awesome features ready made JS libraries were used such as:
 - Glider.js by [Jędrzej Chałubek](https://glidejs.com/)
 - Page slider by [Kevin Østmark](https://github.com/kevinoes/page-slider-js)
 
-Screenshot [link](https://github.com/nurislam-ab/capstone_project_html_css/blob/development/screenshot.jpg)
+Screenshot
+
+![link](https://github.com/nurislam-ab/capstone_project_html_css/blob/development/screenshot.jpg)
 			
 
 # What it does
